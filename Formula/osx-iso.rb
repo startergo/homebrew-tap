@@ -1,8 +1,8 @@
 class OsxIso < Formula
   desc "Create a bootable ISO of OS X / macOS, from the installation app file"
   homepage "https://github.com/busterc/osx-iso"
-  url "https://github.com/busterc/osx-iso/archive/refs/tags/v6.0.1.tar.gz"
-  sha256 "4eacab3814020947533393a29453f62610ec1390261684c9d107e68aadc7866e"
+  url "https://github.com/busterc/osx-iso/archive/refs/tags/v6.0.2.tar.gz"
+  sha256 "bf5ffd7f381b2de6b391096c8e636ace3a26e66f46b7fec70a3df8f58c5cb5b1"
   head "https://github.com/busterc/osx-iso.git"
 
   def install
