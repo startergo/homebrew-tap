@@ -6,7 +6,7 @@ A collection of my personally crafted [Homebrew](https://brew.sh/) formulae.
 
 ```sh
 # add my tap (just once)
-$ brew tap busterc/tap
+$ brew tap startergo/tap
 
 # install my formulae
 $ brew install <formula>
@@ -14,6 +14,6 @@ $ brew install <formula>
 
 ## Available Formulae
 
-  - **[osx-iso](https://github.com/busterc/osx-iso)** - Create a bootable ISO of OS X / macOS, from the installation app file
+  - **[osx-iso](https://github.com/startergo/osx-iso)** - Create a bootable ISO of OS X / macOS, from the installation app file
 
 ## Cheers!
